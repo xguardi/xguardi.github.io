@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-us">
+<html lang="en-US">
 
 <head>
 <meta charset="utf-8">
@@ -54,9 +54,9 @@
 
 
 
-    <link rel="stylesheet" href="/css/reset.css">
-    <link rel="stylesheet" href="/css/pygments.css">
-    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="https://xguardi.github.io/css/reset.css">
+    <link rel="stylesheet" href="https://xguardi.github.io/css/pygments.css">
+    <link rel="stylesheet" href="https://xguardi.github.io/css/main.css">
     
 
 
@@ -64,7 +64,7 @@
 
 <link rel="shortcut icon"
 
-    href="/img/favicon.ico"
+    href="https://xguardi.github.io/img/favicon.ico"
 
 >
 
@@ -84,7 +84,7 @@
     <div class="container">
         <div class="content">
             
-            <a href="/"><div class="name"></div></a>
+            <a href="https://xguardi.github.io/"><div class="name"></div></a>
             
             <nav>
                 <ul>
@@ -155,11 +155,30 @@
 Hello world!</p>
 
                 <br>
-		<p class="back-to-posts"><a href="/blog/">Back to posts</a></p>
+		<p class="back-to-posts"><a href="https://xguardi.github.io/blog/">Back to posts</a></p>
             </div>
             <br>
             <div class="disqus">
-                
+                <div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "cocoaexamplesite" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
             </div>
             
         </div>
@@ -167,6 +186,13 @@ Hello world!</p>
 </section>
 
 
+
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-123-45', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
 
 
 
