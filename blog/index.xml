@@ -1,23 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on L&#39;illa del logaritme</title>
+    <title>Blogs on </title>
     <link>https://xguardi.github.io/blog/</link>
-    <description>Recent content in Blog on L&#39;illa del logaritme</description>
+    <description>Recent content in Blogs on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <lastBuildDate>Tue, 17 Apr 2018 18:54:11 +0200</lastBuildDate>
+    <language>es-ES</language>
+    <lastBuildDate>Wed, 25 Apr 2018 18:09:03 +0200</lastBuildDate>
     
 	<atom:link href="https://xguardi.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Your New Post</title>
-      <link>https://xguardi.github.io/blog/your-new-post/</link>
+      <title>My Second Post</title>
+      <link>https://xguardi.github.io/blog/my-second-post/</link>
+      <pubDate>Wed, 25 Apr 2018 18:09:03 +0200</pubDate>
+      
+      <guid>https://xguardi.github.io/blog/my-second-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Castells de dades - Els darrers 100 anys</title>
+      <link>https://xguardi.github.io/blog/inici-edat-or/</link>
       <pubDate>Tue, 17 Apr 2018 18:54:11 +0200</pubDate>
       
-      <guid>https://xguardi.github.io/blog/your-new-post/</guid>
-      <description>Hello world! Hello world!</description>
+      <guid>https://xguardi.github.io/blog/inici-edat-or/</guid>
+      <description>Aquests darrers anys, els castells han mostrat una evolució espectacular. Tant en nombre de colles com en les construccions, cada cop més difícils, que han anat assolint. L&amp;rsquo;etiqueta de la millor diada de la història s&amp;rsquo;ha tornat una expressió estereotipada, repetida incessantment en les cròniques castelleres. Si per exemple algú ens hagués dit fa uns anys que veuríem colles descarregant dos castells de deu en una mateixa diada, l&amp;rsquo;haguéssim pres per un il·luminat.</description>
     </item>
     
   </channel>

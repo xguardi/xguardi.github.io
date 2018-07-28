@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fixeds on </title>
+    <link>https://xguardi.github.io/fixed/</link>
+    <description>Recent content in Fixeds on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Tue, 17 Apr 2018 18:54:16 +0200</lastBuildDate>
+    
+	<atom:link href="https://xguardi.github.io/fixed/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://xguardi.github.io/fixed/about/</link>
+      <pubDate>Tue, 17 Apr 2018 18:54:16 +0200</pubDate>
+      
+      <guid>https://xguardi.github.io/fixed/about/</guid>
+      <description>Hi! I&amp;rsquo;m Xavi Guardiola [1]. I was born and still live in El Vendrell, Catalonia.
+On my CV it says I&amp;rsquo;m a Data Scientist. However, I see myself more as a Polymath. I love learning about all kinds of things despite not being good at any.
+As a kid my dream was to create video-games. However, I ended up being a scientist. Blame Carl Sagan for that. I got my Ph.</description>
+    </item>
+    
+  </channel>
+</rss>
